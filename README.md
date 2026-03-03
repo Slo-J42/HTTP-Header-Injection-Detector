@@ -45,10 +45,13 @@ This tool automates header-based payload injection and analyzes server responses
 
 ## Project Structure
 
-HTTP-Header-Injection-Detector/
-│
+HTTP-Header-Injection-Detector
+
+
 ├── header_injectionv2.py
+
 ├── LICENSE
+
 └── README.md
 
 ---
