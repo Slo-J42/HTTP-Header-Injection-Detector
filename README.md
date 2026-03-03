@@ -48,7 +48,6 @@ This tool automates header-based payload injection and analyzes server responses
 HTTP-Header-Injection-Detector/
 │
 ├── header_injectionv2.py
-├── requirements.txt
 ├── LICENSE
 └── README.md
 
